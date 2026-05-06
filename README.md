@@ -139,9 +139,3 @@ The script performs these validations before writing anything:
 
 **Custom XAMPP path**
 → Edit the `XAMPP_PATH` variable near the top of the `.bat` file.
-
----
-
-## 📄 License
-
-Free to use and modify for personal and commercial projects.
