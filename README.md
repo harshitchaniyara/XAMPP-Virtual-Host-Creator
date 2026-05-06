@@ -1,1 +1,1 @@
-# -XAMPP-Virtual-Host-Creator
+# XAMPP-Virtual-Host-Creator
